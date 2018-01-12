@@ -33,24 +33,17 @@ _The education they received while useful was only partially correct. The instru
 
 TALENTS
 ---
-## Example talent
-Talents are skills that a character has that could help aid them in their quest. They are different from backstories in that they have are usually used in a specific circumstance or set of circumstances. There are 4 talents for every card.
+## Regeneration
+Regeneration
 
-## Example talent (continued)
-While Weave does allow for flexible rules, be careful not to add too many game mechanics to talents unless it is necessary for the feel and flavor of the talent involved.
+## Flashbangs
+Flashbangs
 
-## Example talent (continued)
-Just like any quality, talents can have storyteller text and tags.
+## Wings
+Feathered Wings
 
-_While not common in talents storyteller text could still be useful. Maybe this talent comes at a cost the player may not be immediately aware of, or may require certain items to use_
-
-- EXAMPLE
-- CONTINUATION
-- TAG
-- LIST
-
-## Rockclimbing
-You are really darn good at rock climbing, or any climbing really. I mean after you scaled that big cliff, you got pretty good at climbing or scaling a lot of things. Within reason of course.
+## New Day
+Reset button
 
 _If they try to climb something unreasonable, feel free to say no. Consider adding an additional die only if they use items that are appropriate for rock climbing._
 
