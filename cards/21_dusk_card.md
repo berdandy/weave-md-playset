@@ -1,6 +1,6 @@
 21 DUSK CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Dusk is downfall after prosperity; the complacency of success; despair; rest
 
 
 BACKSTORIES

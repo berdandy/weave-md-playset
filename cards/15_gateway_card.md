@@ -1,6 +1,6 @@
 15 GATEWAY CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Gateway shows pathways and transitions; transformation; change and growth; opportunity taken
 
 
 BACKSTORIES

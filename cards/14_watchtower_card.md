@@ -1,6 +1,6 @@
 14 WATCHTOWER CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Watchtower shows societal suspicion; the panopticon of surveillance; the military city-state; the assumption of guilt before innocence; the control of language and media; all to ostensibly protect
 
 
 BACKSTORIES

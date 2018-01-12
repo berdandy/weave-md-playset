@@ -1,6 +1,6 @@
 10 COIN CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Coin represents luck; duality of purpose; the ever-spinning fickle token of fate; impossibility made possible
 
 
 BACKSTORIES

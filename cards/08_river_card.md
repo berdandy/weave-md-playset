@@ -1,6 +1,6 @@
 08 RIVER CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The River is moving without movement; it represents the paradox of nature and duality of existence
 
 
 BACKSTORIES

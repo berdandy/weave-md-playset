@@ -1,6 +1,6 @@
 12 MASK CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Mask represents identities, secret or otherwise; assuming identies for personal safety, safety of others, or simple anonymity
 
 
 BACKSTORIES

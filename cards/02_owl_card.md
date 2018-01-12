@@ -1,6 +1,6 @@
 02 OWL CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Owl exemplifies wisdom and experience; the knowledge of the dark spaces of the world; spies and that which should not be known
 
 
 BACKSTORIES

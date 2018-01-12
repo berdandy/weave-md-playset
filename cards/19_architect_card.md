@@ -1,6 +1,6 @@
 19 ARCHITECT CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Architect represents the need to create; the drive to manufacture something lasting; to laying new foundations, or building atop old ones
 
 
 BACKSTORIES

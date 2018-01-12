@@ -1,6 +1,6 @@
 09 CROWN CARD
 ---
-This paragaph is a description of the overall tone of the card, and what it means to you as the writer. Weave uses this paragraph to give to both the players during character creation and the storyteller during episode creation.
+The Crown represents loyalty and oaths; pleging one's safety for a greater cause
 
 
 BACKSTORIES
