@@ -59,19 +59,18 @@ Laser Rifle
 
 NPCS
 ---
-## Example NPC
-NPC stands for non-player character, and are used by the storyteller as someone who may travel with the players or assist them briefly in the story. There are 2 NPCs in every card.
+## Prophet of Ra
+Aging prophet of the Sun God
 
-## Old Man Gygax
-A older man with a white beard and stocky build. He seems like the type who can ramble and describe things or events at great length, and always has books with him whereever he goes
+## Helios Agent
+An agent from the Helios Organization
 
-_Gygax will be more open to talk to players that have a *MAGICAL* tag associated with them. All others may have to perform a Brooks Challenge to keep him on topic_
 
 
 ENEMIES
 ---
-## Example Enemy
-Enemies are great ways to keep players on course or challenge them during lulls in the story. They reserve the right to have non-player actions in an encounter. There are 2 enemies in a card, and typically involve one enemy being singular and the other enemy being plural in numbers.
+## SunSpider
+A large spider about the side of a human fist, the SunSpider can reach out and grasp rays of sunlight and twine them together into impossible shapes. Normally benign, the only risk is getting burned by their energy filled webs. Beware, if you see a softly glowing egg sac, sunspiders will protect their young fiercely.
 
 ## Swarm of Huge Moths
 These moths are huge. Like really huge, and their razor sharp wings could perform can cut deep against any that get in their way
