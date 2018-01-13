@@ -73,9 +73,9 @@ ENEMIES
 A large spider about the side of a human fist, the SunSpider can reach out and grasp rays of sunlight and twine them together into impossible shapes. Normally benign, the only risk is getting burned by their energy filled webs. However, Beware if you see a softly glowing egg sac, sunspiders will protect their young with a white hot rage.
 
 ## Agent of the Golden Dawn
-The Golden Dawn organization is dedicated to the eradication of anything not conforming to the ideals set forth by their founder, the Sunward Tsar
+The Golden Dawn organization is dedicated to the eradication of anything not conforming to the ideals set forth by their founder, the Sunward Tsar.
 
-_The Golden Dawn, as presented, are a bunch of racist and xenophobic assholes. If this doesn't fit with your game, they're easily replaced with a financially/politically motivated organization._
+_The Golden Dawn, as presented, are a bunch of racist and xenophobic assholes. If this doesn't fit with your game, consider replacing with a financially/politically motivated organization._
 
 
 PLOT TWISTS
