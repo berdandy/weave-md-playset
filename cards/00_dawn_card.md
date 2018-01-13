@@ -1,35 +1,17 @@
 00 DAWN CARD
 ---
-The Dawn is rebirth after destruction; the return of the day after the long night of sorrow; hope; harsh realizations
-
+The Dawn is rebirth after destruction; the return of the day after the long night of sorrow; hope; harsh realizations; christian symbolism
 
 BACKSTORIES
 ---
-## Explaining Backstories
-This is a description paragraph of what would appear when you scan a card. A card has 3 backstories. The "double hashtag" symbol at the beginning of a new line is a reserved symbol for the titles of qualities inside of a playset. The text that follows is the actual title itself. In this case, the title of this quality would be "Explaining Backstories"
+## You died and were reborn
+You died and were reborn
 
-Text can be added in with underscores at the beginning and end of the final paragraph to indicate that it will only be shown to the storyteller. See the example below:
+## The light of the sun gives you your powers
+The light of the sun gives you your powers
 
-_This paragraph starts and ends with an underscore. This indicates that this text can only be viewed by the storyteller and not by any player_
-
-## Applying Tags to a Backstory
-Tags are an easy way to apply context to any quality. They are used by the storyteller and other qualities to identify certain effects or circumstances that would arise. They single words indicated in a list as shown below.
-
-_please note that the following text here is still considered the last paragraph of the quality, and should be placed BEFORE the tag list_
-
-- SINGLE
-- WORDS
-- ONLY
-
-## Attended school of double wand spell-fighting
-You went to a very prestigous school of double wand spell-fighting. It's like spell-fighting with a regular wand, except you have TWO wands. Someone should write a book about this, and they did. That's why you went to school about it.
-
-_The education they received while useful was only partially correct. The instructor was poorly educated in it and only used the word prestigous in the brochure to get rich families to sign up_
-
-- MAGICAL
-- EDUCATED
-- SPELL-FIGHTER
-
+## You fit the description of a religious prophecy
+You fit the description of a religious prophecy
 
 TALENTS
 ---
@@ -43,54 +25,36 @@ Flashbangs
 Feathered Wings
 
 ## New Day
-Reset button
-
-_If they try to climb something unreasonable, feel free to say no. Consider adding an additional die only if they use items that are appropriate for rock climbing._
-
-- OUTDOORS
-- ADVENTUROUS
-- PHYSICAL
-
+Time-based reset button
 
 FLAWS
 ---
-## Example Flaw
-Flaws are semi-generalized or specialized qualities of a character that a storyteller uses to either remove a die for a specific challenge in a given circumstance or for an enticement. There are 4 flaws for each card.
+## Sunburns
+Sunburns
 
-## Example Flaw (continued)
-Try to make flaws that can be interchangeable between characters. For instance if you have another card that says "has three arms" in one card, a flaw that is titled "only one arm" in another card might create an issue if the player choose both.
+## Always glowing
+Always glowing
 
-## Example Flaw (continued)
-Flaws follow the rules of qualities and although rare, flaws can use storyteller text and tags if necessary.
+## Weakened by light
+Weakened by light
 
-_example storyteller text_
-
-- EXAMPLE
-- TAGS
-
-## Scared of Heights
-You are unusually scared of heights. Maybe it was that one time you went rockclimbing, but you can't seem to shake the fear of falling if you look down from a large height.
+## Heat sensitive
+Must stay cool
 
 
 SIGNATURE MOVE
 ---
-## Example Signature Move
-Signature moves are usually used only once in an episode, and thus have game mechanics that are pretty powerful. Examples of powerful game mechanics could be receiving two extra dice, ignoring strikes, re-rolling strikes, re-rolling all dice, assisting all players with an extra die, etc. These can also include flavor to the story that can still affect the outcome. Bruce Banner turning into the incredible hulk would be a good example, as the size of the character would grow, which might affect certain situations in gameplay. There is only one signature move per card.
+## Solar Flare
+Solar Flare
 
 
 ITEMS
 ---
-## Example Item
-Items are useful in a story to characters, but don't always mean that they gain an extra die in a challenge. They also may be used to also make an action possible, which in turn may require a challenge. There are 2 items in every card.
+## Portable Sun
+Portable Sun
 
-## Battery-powered Flashlight
-Your favorite flashlight for delving into caves, and certainly the brightest one on the market. Hopefully the batteries are still fresh...
-
-_After three uses of the flashlight or after continuous use, consider having the batteries run out_
-
-- BRIGHT
-- SMALL
-- ELECTRICAL
+## Laser Rifle
+Laser Rifle
 
 
 NPCS
