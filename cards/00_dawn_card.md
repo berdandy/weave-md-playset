@@ -70,35 +70,35 @@ An agent from the Helios Organization
 ENEMIES
 ---
 ## SunSpider
-A large spider about the side of a human fist, the SunSpider can reach out and grasp rays of sunlight and twine them together into impossible shapes. Normally benign, the only risk is getting burned by their energy filled webs. Beware, if you see a softly glowing egg sac, sunspiders will protect their young fiercely.
+A large spider about the side of a human fist, the SunSpider can reach out and grasp rays of sunlight and twine them together into impossible shapes. Normally benign, the only risk is getting burned by their energy filled webs. However, Beware if you see a softly glowing egg sac, sunspiders will protect their young with a white hot rage.
 
-## Swarm of Huge Moths
-These moths are huge. Like really huge, and their razor sharp wings could perform can cut deep against any that get in their way
+## Agent of the Golden Dawn
+The Golden Dawn organization is dedicated to the eradication of anything not conforming to the ideals set forth by their founder, the Sunward Tsar
 
-_Moths are more likely to be attracted to any player that have a *BRIGHT* tag associated with them._
+_The Golden Dawn, as presented, are a bunch of racist and xenophobic assholes. If this doesn't fit with your game, they're easily replaced with a financially/politically motivated organization._
 
 
 PLOT TWISTS
 ---
-## Example Plot Twists
-These are very useful for a storyteller that may want to change up the story or reintroduce some drama into the player's lives. Plot twists are meant to change the direction of a story, or modify the outcome, but not meant to change the Theme or overarching plot of the episode. There are 2 plot twists per card.
+## Plot Twist 1
+Plot twist 1
 
-## Disoriented and Lost
-A magical trap was placed somewhere where your players are, and when it went off the players were disoriented by it's affects, and find themselves in another location. This may be a good time to play a location card to find out where they went, unless there is already a place in mind.
+## plot twist 2
+Plot twist 2
 
 
 LOCATIONS
 ---
-## Example Location
-Location location location. These are places that an NPC, clue, or plot point may direct the players to. Locations are usually played at the end of a scene to start up the next scene in the episode.
+## Solar Furnace
+A mechanical array of mirrors that focus intense amounts of solar energy to a single point. It is capable of melting any material know to man, with very little energy expenditure, as long as the sun is shining.
 
-## Abandonded Hospital
-The walls are ripe with moss and decay, it's super creepy. There are long corridors lined with cots and medical equipment that is way past it's prime. Some Flourescent lights are still on, but flicker sporadically.
+## Greenhouse
+This greenhouse has seen better days. The plants are overgrown, the glass is cracked, and there’s pools of standing water everywhere. The damp smell of fungus hangs in the air.
 
-_If the players go too far down a hallway, they might encounter renegade punks looking to scavenge equipment, and it might incur an encounter_
+_Despite it’s appearance of disrepair, this greenhouse is in active use. A villain’s lair? A shelter for someone? In use by the plants themselves?_
 
 
 THEME
 ---
-## Example Theme
-The theme is the overarching plot or task of the episode and is tied to the Boss of the episode, or the Boss of the episode might benefit from a certain outcome.
+## Prophesy of the Golden Dawn
+A group of scholars inform the party that one (or all) of the characters match the description of the prophesy, showing the future of the Golden Dawn. What do the scholars do with the knowledge? How many of them disagree?
